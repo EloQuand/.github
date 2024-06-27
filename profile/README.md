@@ -63,5 +63,7 @@ This server project has been carried out by:
     </tbody>
 </table>
 Pour plus d'informations, veuillez visiter nos profils LinkedIn: 
+
+
 - [Mathys Thévenot](https://www.linkedin.com/in/mathys-t-5057aa220/)
 
