@@ -1,0 +1,2 @@
+# .github
+Papotons, parlons, communiquons !
