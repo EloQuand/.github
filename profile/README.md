@@ -4,7 +4,7 @@
 
 | |
 |:---:|
-| ![Froggy logo](../Docs/Images/logo.svg) |
+| ![Froggy logo](../Docs/Images/hero-mockup.png) |
 
 </div>
 
