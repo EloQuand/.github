@@ -4,7 +4,7 @@
 
 | |
 |:---:|
-| ![Froggy logo](../Docs/Images/FrogyEloQuandResize.png) |
+| ![Froggy logo](../Docs/Images/logo.svg) |
 
 </div>
 
